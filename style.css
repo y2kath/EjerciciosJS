@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #779ed4;
+    color: rgb(41, 41, 86);
+}
+
+header{
+    
+    background-image: url(img/cielo2.png);
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+     position: relative;
+     align-items: center;
+     text-align: center;
+     min-height: 40vh;
+     padding: 100px 0;
+     color: #FFF;
+}
+
+h1{
+    font-weight: 500;
+}
+
+h1, h2, h3 {
+    align-items: center;
+    text-align: center;
+    margin: 40px;
+    padding: 0;
+}
+
+.content-instrucciones{
+    padding: 2px;
+    margin: 20px;
+    background-color: rgb(73, 102, 151);
+    border: 0;
+    border-radius: 25px;
+}
+
+.content {
+    text-align: center;
+    margin: 20px;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.content li {
+    margin-bottom: 10px;
+}
+
+.content li a {
+    display: block;
+    padding: 5px 0;
+}
+
